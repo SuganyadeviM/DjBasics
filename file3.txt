@@ -1,0 +1,1 @@
+Static files are added such as images and css.
